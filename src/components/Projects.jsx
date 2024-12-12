@@ -29,7 +29,7 @@ const Projects = () => {
             title: "My Portfolio",
             description:
               "A visually captivating personal portfolio showcasing my skills, projects, and experience. Built using React.js, Tailwind CSS, and Framer Motion, it features dynamic animations, seamless navigation, and a fully responsive design.",
-            codeLink: "https://github.com/nimra8899/portfolio",
+            codeLink: "https://github.com/nimra8899/Portfolio/tree/porfolio",
             icons: [
               { Icon: RiReactjsLine, color: "text-blue-400" }, // React.js Icon
               { Icon: SiTailwindcss, color: "text-teal-400" }, // Tailwind Icon
